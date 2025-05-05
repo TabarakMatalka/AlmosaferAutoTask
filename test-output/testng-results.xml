@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-05T11:59:07 GMT+03:00" name="Default suite" finished-at="2025-05-05T11:59:33 GMT+03:00" duration-ms="26330">
+    <groups>
+    </groups>
+    <test started-at="2025-05-05T11:59:07 GMT+03:00" name="Default test" finished-at="2025-05-05T11:59:33 GMT+03:00" duration-ms="26330">
+      <class name="Alomsafer_TestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:07 GMT+03:00" name="mySetup" finished-at="2025-05-05T11:59:09 GMT+03:00" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="checkTheDefaultLanguageIsEnglish()[pri:1, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:09 GMT+03:00" name="checkTheDefaultLanguageIsEnglish" finished-at="2025-05-05T11:59:09 GMT+03:00" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheDefaultLanguageIsEnglish -->
+        <test-method signature="checkTheDefaultCurrency()[pri:2, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:09 GMT+03:00" name="checkTheDefaultCurrency" finished-at="2025-05-05T11:59:09 GMT+03:00" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTheDefaultCurrency -->
+        <test-method signature="checkContactNumber()[pri:3, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:09 GMT+03:00" name="checkContactNumber" finished-at="2025-05-05T11:59:09 GMT+03:00" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkContactNumber -->
+        <test-method signature="checkQitafLogo()[pri:4, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:09 GMT+03:00" name="checkQitafLogo" finished-at="2025-05-05T11:59:14 GMT+03:00" duration-ms="5154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkQitafLogo -->
+        <test-method signature="checkHotelsTabNotDefault()[pri:5, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:14 GMT+03:00" name="checkHotelsTabNotDefault" finished-at="2025-05-05T11:59:14 GMT+03:00" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHotelsTabNotDefault -->
+        <test-method signature="checkFlightsDepartureDate()[pri:6, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:14 GMT+03:00" name="checkFlightsDepartureDate" finished-at="2025-05-05T11:59:14 GMT+03:00" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFlightsDepartureDate -->
+        <test-method signature="checkFlightsReturnDate()[pri:8, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:14 GMT+03:00" name="checkFlightsReturnDate" finished-at="2025-05-05T11:59:14 GMT+03:00" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFlightsReturnDate -->
+        <test-method signature="chooseRandomLanguage()[pri:8, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:14 GMT+03:00" name="chooseRandomLanguage" finished-at="2025-05-05T11:59:17 GMT+03:00" duration-ms="3092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseRandomLanguage -->
+        <test-method signature="staysTab()[pri:9, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:17 GMT+03:00" name="staysTab" finished-at="2025-05-05T11:59:19 GMT+03:00" duration-ms="1907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staysTab -->
+        <test-method signature="stayLocation()[pri:10, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:19 GMT+03:00" name="stayLocation" finished-at="2025-05-05T11:59:21 GMT+03:00" duration-ms="1489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stayLocation -->
+        <test-method signature="selectRandomRoom_And_GuestOptions()[pri:11, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:21 GMT+03:00" name="selectRandomRoom_And_GuestOptions" finished-at="2025-05-05T11:59:21 GMT+03:00" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRandomRoom_And_GuestOptions -->
+        <test-method signature="searchHotelsResultsPage()[pri:12, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:21 GMT+03:00" name="searchHotelsResultsPage" finished-at="2025-05-05T11:59:33 GMT+03:00" duration-ms="12083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHotelsResultsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Alomsafer_TestCases@4b45dcb8]" started-at="2025-05-05T11:59:33 GMT+03:00" name="tearDown" finished-at="2025-05-05T11:59:33 GMT+03:00" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Alomsafer_TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
